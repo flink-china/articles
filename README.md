@@ -12,7 +12,7 @@ Flink 社区后续待整理文章将**以 issue 的形式公布**，对文章整
 - 每篇文章分为整理者和校对者，双方共同为文章的质量负责。
 - 文章校对者需要根据视频内容核查整理者内容是否符合原文表达、文章提纲、整体逻辑是否正确，双方可针对有分歧的地方进行讨论、沟通。
 
-Tips：建议文章整理者互相校对。
+Tips：建议好基友结队进行整理和校对。
 
 # 02 你的收获
 
@@ -79,8 +79,6 @@ https://ververica.cn/developers/apache-flink-zero-basic-introduction-iv-client-o
 
 - 整理文章更多的是加深对技术的理解和应用，本质上对成为contributor肯定是有帮助的，但能否让你快速成为contributor，此处分享云邪大佬的分享，与大家共勉！
 
-“我觉得 contributor/committer 的关键是在积极地去做 issue，我只能帮助流程上的指导 （流程上的东西那篇文章里已经讲的很清楚了），剩下的都是个人修行了”
-
 附：如何从小白成长为 Apache Committer（云邪）
 https://ververica.cn/developers/how-to-be-committer/
 
@@ -88,6 +86,4 @@ https://ververica.cn/developers/how-to-be-committer/
 
 因人而异，参考信息：
  
-- 小松鼠，无技术背景，仅对基本知识有所了解，整理一篇文章耗时一周
-- 大佬，Flink 开发，对技术有深入了解，整理一篇文章耗时3天
-
+- 小松鼠，无技术背景，仅对基本知识有所了解，认真完成工作外整理一篇文章需要 3-5 小时
